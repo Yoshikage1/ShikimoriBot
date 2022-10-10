@@ -183,23 +183,19 @@ else:
         raise Exception(
             "Your blacklisted chats list does not contain valid integers.")
             
+# pm text new ver. don't do anything to it--xd            
 PM_START_TEXT = """
-════════《✧》════════
+Konichiwa {},
+ʙᴏᴋᴜ ɴᴏ ɴᴀᴍᴀɪ ᴡᴀ Kᴜʀᴜᴍɪ Tᴏᴋɪꜱᴀᴋɪ,
 
-Konichiwa *{}*,
-ʙᴏᴋᴜ ɴᴏ ɴᴀᴍᴀɪ ᴡᴀ `kurumi` ꜰʀᴏᴍ ᴛʜᴇ ᴀɴɪᴍᴇ `date a live` ,
-
-❍ I ʜᴀᴠᴇ `{}` Sɪᴍᴘꜱ ᴏᴠᴇʀ `{}` Hᴇᴀᴠᴇɴʟʏ Gʀᴏᴜᴘꜱ
+❍ I ʜᴀᴠᴇ {} Sɪᴍᴘꜱ ᴏᴠᴇʀ {} Hᴇᴀᴠᴇɴʟʏ Gʀᴏᴜᴘꜱ
 ━━━━━━━━━━━━━━━━━━━━━━━━
 ➢ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇ ʙᴀꜱᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ✨!
 ━━━━━━━━━━━━━━━━━━━━━━━━
-❍ Sᴜʙᴊᴇᴄᴛ Uᴘᴛɪᴍᴇ : `{}` 
+❍ Sᴜʙᴊᴇᴄᴛ Uᴘᴛɪᴍᴇ : {} 
 
 ✪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɴᴏᴡ!
 ✪ ᴏᴘᴇɴ /Help ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪ ᴀᴍ ᴄᴀᴘᴀʙʟᴇ ᴏꜰ
-
-════════《✧》════════ 
-
 """
 
 HELP_STRINGS = """
