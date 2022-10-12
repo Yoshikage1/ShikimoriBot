@@ -108,7 +108,7 @@ def stats(update, context):
                     [
                         [                  
                             InlineKeyboardButton(
-                                    text="REPO",
+                                    text="Network",
                                     url="https://t.me/Otaku_Binge"),
                         ]
                     ]
