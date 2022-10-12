@@ -92,8 +92,8 @@ def stats(update, context):
                     [
                         [                  
                             InlineKeyboardButton(
-                                    text="REPO",
-                                    url="https://github.com/SOME-1HING/ShikimoriBot"),
+                                    text="Network",
+                                    url="https://t.me/Otaku_Binge"),
                         ]
                     ]
                 ),
@@ -109,7 +109,7 @@ def stats(update, context):
                         [                  
                             InlineKeyboardButton(
                                     text="REPO",
-                                    url="https://github.com/SOME-1HING/ShikimoriBot"),
+                                    url="https://t.me/Otaku_Binge"),
                         ]
                     ]
                 ),
@@ -131,8 +131,8 @@ def stats(update, context):
                 [
                   [                  
                        InlineKeyboardButton(
-                                text="Lieutenant Owner",
-                                url="https://t.me/kattipui"),
+                                text="dev",
+                                url="https://t.me/kira_yoshikage_789"),
                      ] 
                 ]
             ),
