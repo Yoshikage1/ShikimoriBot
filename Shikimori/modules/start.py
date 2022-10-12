@@ -52,15 +52,18 @@ start_id = IMG_START[-1]
 buttons = [
     [
         InlineKeyboardButton(
-            text=f" Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ", url=f"t.me/{BOT_USERNAME}?startgroup=true"),
+            text=f"➕ Add me to your chat ➕", url=f"t.me/{BOT_USERNAME}?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/{UPDATE_CHANNEL}"),   
+        InlineKeyboardButton(text="support 💞", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="Updates 🎉", url=f"https://t.me/{UPDATE_CHANNEL}"), 
+        InlineKeyboardButton(text="Owner 🏅", url=f"https://t.me/kira_yoshikage_789), 
     ],
     [
         InlineKeyboardButton(
-            text=f"𝙳ʀᴀɢᴏɴ 𝙽ᴇᴛᴡᴏʀᴋ", url=f"https://t.me/DragonsXNetwork"),
+            text=f"⚔️ Network ⚔️", url=f"https://t.me/DragonsXNetwork"),
+        InlineKeyboardbutton(
+            text=f"🎭 Source code", url=f"https://github.com/Yoshikage1/shimizuxRobot), 
     ], 
 ]
 
