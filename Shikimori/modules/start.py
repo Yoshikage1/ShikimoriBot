@@ -63,7 +63,7 @@ buttons = [
         InlineKeyboardButton(
             text=f"⚔️ Network ⚔️", url=f"https://t.me/Otaku_Binge"),
         InlineKeyboardbutton(
-            text=f"🎭 Source code", url=f"https://github.com/Yoshikage1/shimizuxRobot), 
+            text=f"🎭Source code", url=f"https://github.com/Yoshikage1/shimizuxRobot), 
     ], 
 ]
 
