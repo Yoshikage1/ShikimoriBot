@@ -36,7 +36,8 @@ from Shikimori.vars import (
     UPDATE_CHANNEL,
     SUPPORT_CHAT,
     ANIME_NAME,
-    START_MEDIA,)
+    START_MEDIA,
+    OWNER_USERNAME)
 from Shikimori.modules.helper_funcs.misc import paginate_modules
 from Shikimori.modules.helper_funcs.chat_status import is_user_admin
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
