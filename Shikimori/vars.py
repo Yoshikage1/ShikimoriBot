@@ -185,12 +185,12 @@ else:
             
 # pm text new ver. don't do anything to it--xd            
 PM_START_TEXT = """
-   Hello there!! {} \n My Name is kiyoko shimizu, 
+   *Hello there! {} \nMy Name is kiyoko shimizu, 
 ×× I'm karasuno high's volleyball club manager as well as an Anime themed advance group management bot with a lot of advance Features! ××
 ➖➖➖➖➖➖➖➖➖➖
-×× Try The Help Command To Know My Abilities [××](https://te.legra.ph/file/b87fa5c2330cca23403ff.mp4) 
+×× Try The Help Command To Know My Abilities [××](https://te.legra.ph/file/b87fa5c2330cca23403ff.mp4)* 
 ➖➖➖➖➖➖➖➖➖➖
 """
 
 HELP_STRINGS = """
-𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗 𝚋𝚎𝚕𝚕𝚘𝚠 𝚝𝚘 𝚐𝚎𝚝 𝚍𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍."""
+*𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗 𝚋𝚎𝚕𝚕𝚘𝚠 𝚝𝚘 𝚐𝚎𝚝 𝚍𝚎𝚜𝚌𝚛𝚒𝚙𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍.*"""
