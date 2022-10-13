@@ -188,7 +188,7 @@ PM_START_TEXT = """
    Hello there!! {} \n My Name is kiyoko shimizu, 
 ×× I'm karasuno high's volleyball club manager as well as an Anime themed advance group management bot with a lot of advance Features! ××
 ➖➖➖➖➖➖➖➖➖➖
-×× Try The Help Command To Know My Abilities ××
+×× Try The Help Command To Know My Abilities [××](https://te.legra.ph/file/b87fa5c2330cca23403ff.mp4) 
 ➖➖➖➖➖➖➖➖➖➖
 """
 
