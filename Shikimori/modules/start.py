@@ -57,11 +57,11 @@ buttons = [
     [
         InlineKeyboardButton(text="support 💞", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(text="Updates 🎉", url=f"https://t.me/{UPDATE_CHANNEL}"), 
-        InlineKeyboardButton(text="Owner 🏅", url=f"https://t.me/kira_yoshikage_789), 
+        InlineKeyboardButton(text="Owner 🏅", url=f"https://t.me/{OWNER_USERNAME}"), 
     ],
     [
         InlineKeyboardButton(
-            text=f"⚔️ Network ⚔️", url=f"https://t.me/DragonsXNetwork"),
+            text=f"⚔️ Network ⚔️", url=f"https://t.me/Otaku_Binge"),
         InlineKeyboardbutton(
             text=f"🎭 Source code", url=f"https://github.com/Yoshikage1/shimizuxRobot), 
     ], 
