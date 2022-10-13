@@ -185,17 +185,11 @@ else:
             
 # pm text new ver. don't do anything to it--xd            
 PM_START_TEXT = """
-Konichiwa {},
-ʙᴏᴋᴜ ɴᴏ ɴᴀᴍᴀɪ ᴡᴀ Kᴜʀᴜᴍɪ Tᴏᴋɪꜱᴀᴋɪ,
-
-❍ I ʜᴀᴠᴇ {} Sɪᴍᴘꜱ ᴏᴠᴇʀ {} Hᴇᴀᴠᴇɴʟʏ Gʀᴏᴜᴘꜱ
-━━━━━━━━━━━━━━━━━━━━━━━━
-➢ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇ ʙᴀꜱᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ✨!
-━━━━━━━━━━━━━━━━━━━━━━━━
-❍ Sᴜʙᴊᴇᴄᴛ Uᴘᴛɪᴍᴇ : {} 
-
-✪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɴᴏᴡ!
-✪ ᴏᴘᴇɴ /Help ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪ ᴀᴍ ᴄᴀᴘᴀʙʟᴇ ᴏꜰ
+   Hello there!! {} \n My Name is kiyoko shimizu, 
+×× I'm karasuno high's volleyball club manager as well as an Anime themed advance group management bot with a lot of advance Features! ××
+➖➖➖➖➖➖➖➖➖➖
+×× Try The Help Command To Know My Abilities ××
+➖➖➖➖➖➖➖➖➖➖
 """
 
 HELP_STRINGS = """
