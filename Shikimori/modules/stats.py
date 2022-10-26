@@ -107,9 +107,7 @@ def stats(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [                  
-                            InlineKeyboardButton(
-                                    text="Network",
-                                    url="https://t.me/Otaku_Binge"),
+        
                         ]
                     ]
                 ),
@@ -130,9 +128,7 @@ def stats(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                   [                  
-                       InlineKeyboardButton(
-                                text="dev",
-                                url="https://t.me/kira_yoshikage_789"),
+                     
                      ] 
                 ]
             ),
