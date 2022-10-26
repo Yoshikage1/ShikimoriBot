@@ -90,10 +90,7 @@ def stats(update, context):
                 parse_mode=ParseMode.MARKDOWN,
                 reply_markup=InlineKeyboardMarkup(
                     [
-                        [                  
-                            InlineKeyboardButton(
-                                    text="Network",
-                                    url="https://t.me/Otaku_Binge"),
+                        [                
                         ]
                     ]
                 ),
